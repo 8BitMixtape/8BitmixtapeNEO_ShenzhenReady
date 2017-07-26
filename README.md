@@ -1,2 +1,4 @@
 # 8BitmixtapeNEO_ShenzhenReady
-Clean repo with only files for manufacturing
+
+summary: <a summary for your project>
+site: https://8bitmixtape.github.io/NeoWiki
